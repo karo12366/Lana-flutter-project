@@ -1,5 +1,7 @@
+
 name: lana_daily_planner
 description: A daily planner app made by Lana with categories and local storage.
+version: 1.0.0+1
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
